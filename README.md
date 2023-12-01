@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I'm currently learning a studying at Faculty of Informatics and Information Technology, Slovak Technical University
 - 📚 Currently attending second year
-- 🖥️ My favourite things to do : Developing and implementing algorithms, AI, playing around in Terminal (no matter which) and tinkering with computers
-- 😄 My favourite things to do without a computer : I'm a sports fan so watching sports, playing sports, occasional gaming (grew out of it), listening to music, playing music and lastly driving 🏎️
+- 🖥️ My favourite things to do: Developing and implementing algorithms, AI, playing around in Terminal (no matter which) and tinkering with computers
+- 😄 My favourite things to do without a computer: I'm a sports fan so watching sports, playing sports, occasional gaming (grew out of it), listening to music, playing music and lastly driving 🏎️
 ---
